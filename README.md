@@ -1,2 +1,2 @@
-# scriptin
+# Knot's Config
 mah scripts
