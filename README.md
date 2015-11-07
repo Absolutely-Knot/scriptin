@@ -1,2 +1,2 @@
 # Knot's Config
-mah scripts
+Go to your custom folder and put it there
